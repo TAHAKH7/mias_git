@@ -1,2 +1,6 @@
 tajin
 lasagnes
+tikka
+curry
+chicken
+naan
